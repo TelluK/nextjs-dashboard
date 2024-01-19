@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+## Dashboard application using Next.js App Router
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Dashboard application is build using the starter template for the Next.js App Router Course.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+For more information about the Next.js App Router Course, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+### Features
+
+- Uses Next.js 14, Vercel Postgres database
+- Next.js App Router which uses React Server Components
+- Dasboard routes
+- Search and Pagination with URL search parameters
