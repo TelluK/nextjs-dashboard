@@ -10,3 +10,6 @@ For more information about the Next.js App Router Course, see the [course curric
 - Next.js App Router which uses React Server Components
 - Dasboard routes
 - Search and Pagination with URL search parameters
+- Mutate invoice data using forms and React Server Actions
+- Improve accessibility in forms with react form status and server-side validation
+- Authentication with next-auth
